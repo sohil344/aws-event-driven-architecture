@@ -1,0 +1,1 @@
+teams_webhook_url = "https://siemens.webhook.office.com/webhookb2/7577326b-c94b-4aa2-a429-b1e35c530a49@38ae3bcd-9579-4fd4-adda-b42e1495d55a/IncomingWebhook/78404c16d5ad48afbf7c21bfef8ec78e/9e6a8079-2286-4b7a-b91b-c7a4e681ff36/V2ptdTv6NczqFIakZpOW8dsF0QNf88XTeQMX_LnO9ZN-o1"
