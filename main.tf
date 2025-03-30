@@ -41,3 +41,12 @@ module "lambda_notify_teams" {
 
 }
 
+terraform {
+  backend "s3" {
+    bucket         = "aws-event-driven-poc"
+    key            = "aws-event-driven-architecture/terraform.tfstate"
+    region         = "us-east-1"
+    dynamodb_table = "terraform-locks"
+    encrypt        = true
+  }
+}
